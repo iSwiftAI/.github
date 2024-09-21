@@ -1,5 +1,1 @@
 # iSwiftAI
-
-## Apps
-
-SwiftPaper
