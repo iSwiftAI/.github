@@ -8,7 +8,7 @@ Whether it's **boosting your productivity** 📈 or keeping you updated on the l
 ### What do we do?  
 We create apps that make your life smarter and more enjoyable! Whether you're a researcher, a student, or just a tech enthusiast, we have something for you. Here's a sneak peek:
 
-- **[SwiftPaper](https://app.iswiftai.com)** 🚀:  
+- **[SwiftPaper](https://app.iswiftai.com/swiftpaper)** 🚀:  
   Your go-to app for the **CCF (China Computer Federation)** recommended list of top computer science journals and conferences! Quickly find **detailed info** on journals and conferences, stay up to date with **call for papers**, and visit their websites—all in one place. Researching has never been this smooth! 📚✨  
 - **... (🛠️ In the Lab, Cooking Up More Awesomeness)**  
   Stay tuned! We've got more exciting apps and updates in the works, and we can’t wait to share them with you soon!
